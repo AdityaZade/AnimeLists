@@ -6,7 +6,6 @@ import App from "./components/App";
 
 
 
-
 ReactDOM.render(<App />, document.getElementById("root"));
 
 //1. Apply CSS styles to App.jsx component
