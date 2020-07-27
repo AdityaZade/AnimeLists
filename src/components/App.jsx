@@ -1,10 +1,12 @@
 import React from "react";
 import Card from "./Card.jsx"
-import anime from "../Anime"
+import { anime } from "../Anime.js"
 
 
 
 function App() {
+
+
   return <div>
     <h1 className="heading">My Anime Lists</h1>
     <Card
